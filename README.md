@@ -1,1 +1,2 @@
 # gorkhapatra
+# nepOCR-gorakha

@@ -5,5 +5,5 @@ hf_cache/
 misc/
 output/
 outputs/
-images/
+all_images/
 __pycache__/
